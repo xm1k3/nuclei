@@ -25,7 +25,7 @@ func TestActionNavigate(t *testing.T) {
 			<title>Nuclei Test Page</title>
 		</head>
 		<body>
-			<h1>Nuclei Test AAA</h1>
+			<h1>Nuclei Test BBB</h1>
 		</body>
 	</html>`
 
